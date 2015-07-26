@@ -1,8 +1,14 @@
 <html>
 <body>
-  <form
-
+  <form id="form1">
+    First name:
+    <input type="text" name="fname"><br>
+    <input type="submit" value="Submit">
 
   </form>
 </body>
+    <p>The "Last name" field below is outside the form element,
+      but still part of the form.</p>
+      Last name:
+    <input type="text" name="lname" form="form1">
 </html>

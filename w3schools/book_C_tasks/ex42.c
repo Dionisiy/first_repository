@@ -4,10 +4,10 @@
 main()
 {
 
-   textbackground(BLUE); // цвет фона
-   textcolor(LIGHTGRAY); // цвет символов
+   textbackground(BLUE);
+   textcolor(LIGHTGRAY);
    clrscr();
-         // очистить экран
+
     cprintf("Буря мглою небо кроет\n\r");
     cprintf("Вихри снежные крутя.\n\r");
 

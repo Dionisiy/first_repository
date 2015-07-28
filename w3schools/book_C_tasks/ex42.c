@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<conio.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 main()
 {
 
@@ -15,5 +15,5 @@ main()
     cprintf("То заплачет, как дитя.\n\n\r");
     cprintf("А. С. Пушкин\n\n\r");
     cprintf("\n\nДля завершения нажмите <Enter>");
-    getch();
+
 }

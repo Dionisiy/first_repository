@@ -10,4 +10,6 @@ main()
     printf("В багрец и золото одетые леса. \n");
     printf(" \n");
     printf("А.С.Пушкин \n");
+    printf(press <Enter>);
+    getchar();
 }

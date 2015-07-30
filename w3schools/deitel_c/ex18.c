@@ -5,13 +5,12 @@
 
 
    main(){
-  int x, q, div;
-    printf ("Введите q : ");
-    scanf("%i ",&q);
-    printf ("Введите div :");
-    scanf("%i ",&div);
-    x= q % div ;
+  int a,b,c ;
+  scanf("%i",&a);
+  scanf("%i",&b);
+  c = a % b;
+  printf("%i \n",c);
 
-     printf ("  %i : \n",x);
+
 
 }

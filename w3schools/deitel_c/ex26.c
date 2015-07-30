@@ -11,7 +11,7 @@
     printf("Введите букву оценки. \n");
     printf("Enter the EOF character to end input. \n");
 
-    while((grade = getchar() ) != EOF){// не отвечает getchar!!!
+    while((grade = scanf(%c,%c) ) != EOF){// не отвечает getchar!!!
 
         swicth(grade) {
 
@@ -41,7 +41,7 @@
 
         }
     }
-        printf("\n Totals rof each letter grade are:\n");
+        printf("\n Totals for each letter grade are:\n");
         printf("A: %i\n", aCount);
         printf("B: %i\n", bCount);
         printf("c: %i\n", cCount);

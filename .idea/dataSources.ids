@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - test@localhost" uuid="47334416-c06b-4e7c-ade4-f55aece6484c">
+    <database-info product="MySQL" version="5.6.19-0ubuntu0.14.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="test"/>
+    <table name="Categories" schema="" catalog="test" type="TABLE">
+      <column name="CategoryID" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="CategoryName" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Description" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="CategoryID"/>
+    </table>
+    <table name="Customers" schema="" catalog="test" type="TABLE">
+      <column name="CustomerID" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="CustomerName" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="ContactName" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Address" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="City" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="PostalCode" sqlType="VARCHAR" precision="200" scale="0" nullable="true" jdbcType="12"/>
+      <column name="Country" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="CustomerID"/>
+    </table>
+  </data-source>
+</component>

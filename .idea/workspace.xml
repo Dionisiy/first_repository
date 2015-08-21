@@ -2,49 +2,220 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="737f6c06-df19-46d4-9c4b-1dab9b128984" name="Default" comment="ttttt">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/img_the_scream.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex11.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex12.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex13.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex14.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex15.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex16.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex17.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex18.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex19.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex20.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex21.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex22.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex23.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex24.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex25.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex26.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex27.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex28.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex29.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex30.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex31.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_17.html" afterPath="$PROJECT_DIR$/w3schools/html/37_atyle_guide/html5_style_guide_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/27_php_cookies/image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/16_php_form_handling/check_request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/23_php_file_handling/dictionary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/24_php_file/dictionary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/13_php_arrays/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/15_php_superglobals/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/16_php_form_handling/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/17_php_form_validation/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/18_php_email/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/19_php_form_complete/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/20_php_multidimensional_arrays/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/23_php_file_handling/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/24_php_file/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/25_php_file_upload/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/27_php_cookies/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/28_php_session/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/29_php_filters/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/30_php_filters_advanced/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/31_php_error_handling/ex1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/13_php_arrays/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/15_php_superglobals/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/16_php_form_handling/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/17_php_form_validation/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/20_php_multidimensional_arrays/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/24_php_file/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/27_php_cookies/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/28_php_session/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/29_php_filters/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/30_php_filters_advanced/ex2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/13_php_arrays/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/15_php_superglobals/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/20_php_multidimensional_arrays/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/24_php_file/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/27_php_cookies/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/28_php_session/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/29_php_filters/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/30_php_filters_advanced/ex3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/13_php_arrays/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/15_php_superglobals/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/24_php_file/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/27_php_cookies/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/28_php_session/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/29_php_filters/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/30_php_filters_advanced/ex4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/13_php_arrays/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/15_php_superglobals/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/28_php_session/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/29_php_filters/ex5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/13_php_arrays/ex6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/29_php_filters/ex6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/14_php_sorting_arrays/ex8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/21_php_date_time/ex9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/jquery_task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task2/jquery_task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/jquery_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects/js_task9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/js/js_task_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/2_conditionals _and_control_flow/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/3_control_flow_switch/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/5_loops_for_foreach/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task10.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/2_conditionals _and_control_flow/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/3_control_flow_switch/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/5_loops_for_foreach/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/2_conditionals _and_control_flow/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/3_control_flow_switch/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/5_loops_for_foreach/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/2_conditionals _and_control_flow/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/3_control_flow_switch/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/3_control_flow_switch/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/3_control_flow_switch/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/5_loops_for_foreach/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/4_arrays/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/5_loops_for_foreach/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/php_task9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/php_task_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task2/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/1_introduction_to_php/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/6_while_loops/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/9_object_in_php/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task2/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/tassk1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/25_php_file_upload/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/22_php_include_files/vars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/16_php_form_handling/welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3schools/php/16_php_form_handling/welcome_get.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex1.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex10.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex11.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex12.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex13.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex14.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex15.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex16.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex17.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex18.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex19.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex2.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex20.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex21.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex22.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex23.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex24.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex25.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex26.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex27.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex28.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex29.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex3.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex30.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex31.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex4.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex5.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex6.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex7.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex8.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex9.c" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/a.out" afterPath="$PROJECT_DIR$/C/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/book_C_tasks/a.out" afterPath="$PROJECT_DIR$/C/book_C_tasks/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex10.c" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex10.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex7.c" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex7.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex8.c" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex8.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/book_C_tasks/ex9.c" afterPath="$PROJECT_DIR$/C/book_C_tasks/ex9.c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C/helloworld.c" afterPath="$PROJECT_DIR$/C/helloworld.c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -62,104 +233,116 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="study" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex22.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex22.c">
+      <file leaf-file-name="php_task5.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task5.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex23.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex23.c">
+      <file leaf-file-name="php_task6.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task6.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex24.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex24.c">
+      <file leaf-file-name="php_task7.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task7.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex25.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex25.c">
+      <file leaf-file-name="php_task1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="27" column="119" selection-start-line="27" selection-start-column="119" selection-end-line="27" selection-end-column="119" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex26.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex26.c">
+      <file leaf-file-name="php_task_template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/php/php_task_template.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex27.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex27.c">
+      <file leaf-file-name="jquery_template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/jquery/jquery_template.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex28.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex28.c">
+      <file leaf-file-name="jquery_task1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/jquery_task1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex29.c" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex29.c">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex30.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex30.c">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex31.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex31.c">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task2/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -171,7 +354,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -179,57 +362,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_2.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_3.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_4.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_5.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_6.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_7.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_9.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_10.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_11.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_12.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_13.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_14.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_15.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_16.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_17.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_1.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_2.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_4.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_3.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_5.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_6.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_7.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_8.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_9.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_1.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_2.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_3.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_4.html" />
-        <option value="$PROJECT_DIR$/w3schools/html/39_svg/html_svg_5.html" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex8.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex9.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex7.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex10.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex11.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex12.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex13.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex14.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex15.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex16.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex17.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex18.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex19.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex20.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex21.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex22.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex23.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex24.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex25.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex26.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex27.c" />
-        <option value="$PROJECT_DIR$/C/book_C_tasks/ex28.c" />
+        <option value="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task2.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task3.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task4.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/6_while_loops/style.css" />
+        <option value="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task5.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task6.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task1.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task2.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task3.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task4.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task5.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task6.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task7.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task8.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/8_function_part1/php_task1.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task2.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task3.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task5.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task6.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task7.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task1.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/style.css" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task3.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task4.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task5.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task6.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task7.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task8.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task9.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task1.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task2.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task3.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task4.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task5.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task6.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task7.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task8.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/tassk1.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task2.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task1.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task3.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task4.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task5.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task6.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task7.php" />
+        <option value="$PROJECT_DIR$/codeacademy/php/php_task_template.php" />
+        <option value="$PROJECT_DIR$/codeacademy/jquery/jquery_template.html" />
+        <option value="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1.html" />
+        <option value="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/stylesheet.css" />
+        <option value="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/script.js" />
+        <option value="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/jquery_task1.html" />
       </list>
     </option>
   </component>
@@ -245,10 +428,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="715" />
-    <option name="y" value="52" />
-    <option name="width" value="650" />
-    <option name="height" value="716" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -257,7 +440,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -273,6 +456,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,10 +465,113 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w3schools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeacademy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeacademy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeacademy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1_introduction_to_jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_task2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeacademy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1_introduction_to_jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,21 +579,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/C/book_C_tasks" />
-      <recent name="$PROJECT_DIR$/w3schools/html/39_svg" />
-      <recent name="$PROJECT_DIR$/w3schools/html/38_html5_canvas" />
-      <recent name="$PROJECT_DIR$/w3schools/html/36_migration" />
-      <recent name="$PROJECT_DIR$/w3schools/html/35_html5_sematic_elements" />
+      <recent name="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery" />
+      <recent name="$PROJECT_DIR$/codeacademy/php/11_arrays_advanced" />
+      <recent name="$PROJECT_DIR$/codeacademy/php/10_object_oriented_php" />
+      <recent name="$PROJECT_DIR$/codeacademy/php/9_object_in_php" />
+      <recent name="$PROJECT_DIR$/codeacademy/php/8_function_part2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/w3schools/html/37" />
-      <recent name="$PROJECT_DIR$/w3schools/js/6_js_statements" />
-      <recent name="$PROJECT_DIR$/w3schools/js/4_js_output" />
-      <recent name="$PROJECT_DIR$/w3schools/js/2_js_introduction" />
-      <recent name="$PROJECT_DIR$/w3schools/html/7_headings" />
+      <recent name="$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jqery_task1" />
+      <recent name="$PROJECT_DIR$/codeacademy/js/1_introduction_to_objects" />
+      <recent name="$PROJECT_DIR$/codeacademy/js" />
+      <recent name="$PROJECT_DIR$/w3schools/php/25_php_file_upload" />
+      <recent name="$PROJECT_DIR$/w3schools/php/23_php_file_handling" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.ex9_1.html">
@@ -413,32 +703,111 @@
       <option name="project" value="LOCAL" />
       <updated>1437928628810</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ttttt">
+      <created>1438001638015</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1438001638015</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ttttt">
+      <created>1438002095135</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1438002095135</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ttttt">
+      <created>1438002176066</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1438002176066</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ttttt">
+      <created>1438002252339</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1438002252339</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ttttt">
+      <created>1438005616718</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1438005616718</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ttttt">
+      <created>1438073032078</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1438073032078</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ttttt">
+      <created>1438079399982</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1438079399982</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ttttt">
+      <created>1438079424664</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1438079424664</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ttttt">
+      <created>1438107603445</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1438107603445</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ttttt">
+      <created>1438167810224</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1438167810224</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ttttt">
+      <created>1438247702466</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1438247702466</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ttttt">
+      <created>1438265630127</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1438265630127</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ttttt">
+      <created>1439367938410</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1439367938410</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="715" y="52" width="650" height="716" extended-state="4" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33278146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18247011" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.072463766" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.103225805" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11792829" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2431562" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -459,429 +828,373 @@
     <option name="LAST_COMMIT_MESSAGE" value="ttttt" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_9.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.0">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/6_while_loops/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding>
-            <marker date="1437925899342" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_13.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_14.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/6_while_loops/php_task6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/36_migration/html5_migration_16.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.833334">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <marker date="1437927487858" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/37_atyle_guide/html5_style_guide_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/38_html5_canvas/html_canvas_9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
+        <state vertical-scroll-proportion="-12.0">
           <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/39_svg/html_svg_1.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
+        <state vertical-scroll-proportion="-4.6666665">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/39_svg/html_svg_2.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#rect#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-16.0">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/39_svg/html_svg_3.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#rect#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-3.3333333">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/39_svg/html_svg_4.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#polygon#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3schools/html/39_svg/html_svg_5.html">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding />
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex11.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="-2.6666667">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex10.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task7.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex12.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex13.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-4.6666665">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex14.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/7_function_part1/php_task8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="-12.666667">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex9.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex8.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex7.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="41" />
-          <folding />
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex6.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task4.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="25" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="25" />
-          <folding />
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex5.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.592592">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.222222">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5555556">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.666667">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.888889">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.592592">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/tassk1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.925926">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3333334">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.592592">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.259259">
+          <caret line="24" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.0">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="9" selection-start-line="7" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/11_arrays_advanced/php_task7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/10_object_oriented_php/php_task3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.555555">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex4.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex3.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex1.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/8_function_part2/php_task7.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex2.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/9_object_in_php/php_task1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="27" column="119" selection-start-line="27" selection-start-column="119" selection-end-line="27" selection-end-column="119" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex15.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/php/php_task_template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex16.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/jquery/jquery_template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex17.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex18.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/jquery_task1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="18" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="18" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex19.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task1/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex20.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex21.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex22.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex23.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex24.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex25.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex26.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex27.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex30.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex31.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex28.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/book_C_tasks/ex29.c">
+    <entry file="file://$PROJECT_DIR$/codeacademy/jquery/1_introduction_to_jquery/jquery_task2/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />

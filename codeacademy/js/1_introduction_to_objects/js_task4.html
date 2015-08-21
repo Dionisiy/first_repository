@@ -1,0 +1,22 @@
+    <html>
+    <body>
+    <script>
+
+        var setAge = function (newAge) {
+            this.age = newAge;
+        };
+
+        var bob = new Object();
+        bob.age = 30;
+
+        bob.setAge = setAge;
+        console.log(bob.age);
+var susan =new Object();
+        susan.age =25;
+        susan.setAge =setAge;
+         console.log(susan.age);
+        susan.setAge(35);
+        console.log(susan.age);
+    </script>
+    </body>
+    </html>

@@ -1,0 +1,7 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: #a7dbd8;
+    display: inline-block;
+    border-radius: 5px;
+}

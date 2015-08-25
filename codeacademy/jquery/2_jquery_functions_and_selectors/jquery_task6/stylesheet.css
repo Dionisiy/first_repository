@@ -1,0 +1,7 @@
+.vanish{
+    height: 100px;
+    width: 100px;
+    background-color: #f38630;
+    display: inline-block;
+    border-radius: 5px;
+}

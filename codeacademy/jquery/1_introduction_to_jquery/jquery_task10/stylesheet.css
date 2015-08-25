@@ -1,0 +1,12 @@
+div{
+    height: 60px;
+    width: 100px;
+    border-radius:5px;
+    text-align: center;
+    vertical-align:middle;
+    font-family: Verdana,Arial, sans-serif;
+    background-color: #69d2e7;
+    color: #ffffff;
+    opacity: 0.5;
+}
+

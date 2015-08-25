@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("div").fadeOut(2000);
+    $("div").fadeIn(5000);
 });
